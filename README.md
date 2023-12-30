@@ -11,6 +11,9 @@
 ## Latest Projects
 🌌 NASA APOD Project - generates the picture corresponding to their Picture of the Day API  
 
+📊 GitHub Web Scraper - scrapes data from GitHub's "Topic" webpage (https://github.com/topics)
+
+
 
 ## Recent Titles
 <!--🌀 Systems Analyst Intern @ OpenText -->
