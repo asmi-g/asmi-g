@@ -5,7 +5,7 @@
 🧭 Seeking F24 Internships
 
 🤖 Currently Working On: An exercise tracker application using MERN!  
-<!-- #### 📊 Languages Frequently Used: -->
+<!-- #### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/ -->
 
 
 ## Latest Projects
