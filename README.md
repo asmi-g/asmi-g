@@ -24,6 +24,8 @@
 
 🚀 Front-End Technical Lead @ SEDS Canada  
 
+<!--⚡ Software Team Member @ Waterloo Space Soldering Team -->
+
 <!--
 **asmi-g/asmi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
