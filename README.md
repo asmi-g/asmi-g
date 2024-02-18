@@ -13,8 +13,7 @@
 
 📊 GitHub Web Scraper - scrapes data from GitHub's "Topic" webpage (https://github.com/topics)
 
-🌞 React Meme Generator - generates a random meme from user-input text
-
+🌞 LiDAR Data Processor - takes in a .las file to isolate and visualize a selected sample
 
 
 ## Recent Titles
