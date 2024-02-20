@@ -4,7 +4,7 @@
 ## About Me
 🧭 Seeking F24 Internships
 
-🤖 Currently Working On: A book logging app using MERN!  
+🤖 Currently Working On: Simulating the effect of gravity on moving and stationary objects in space (using Python)
 <!-- #### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/ -->
 
 
