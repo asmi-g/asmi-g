@@ -5,7 +5,7 @@
 🧭 Seeking F24 Internships
 
 🤖 Currently Working On: Simulating the effect of gravity on moving and stationary objects in space (using Python)
-<!-- #### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/ -->
+#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/
 
 
 ## Latest Projects
