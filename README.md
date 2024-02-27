@@ -5,7 +5,7 @@
 🧭 Seeking F24 Internships
 
 🤖 Currently Working On: Simulating the effect of gravity on moving and stationary objects in space (using Python)
-#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/
+<!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
 
 
 ## Latest Projects
@@ -24,6 +24,8 @@
 🚀 Front-End Technical Lead @ SEDS Canada  
 
 <!--⚡ Software Team Member @ Waterloo Space Soldering Team -->
+
+![asmi-g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmi-g&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **asmi-g/asmi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
