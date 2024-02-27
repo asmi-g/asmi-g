@@ -1,9 +1,9 @@
 ### Hi, I'm Asmi! Welcome to my GitHub profile! 💌  
 
 ## About Me
-🧭 Seeking F24 Internships
+🧭 Seeking F24 Internships in firmware development and aerospace engineering roles
 
-🤖 Currently Working On: Simulating the effect of gravity on moving and stationary objects in space (using Python)
+🤖 Currently Working On: IoT Project w/ STM32 & ESP32 Module
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
 
 
@@ -16,14 +16,15 @@
 
 📊 GitHub Web Scraper - scrapes data from GitHub's "Topic" webpage (https://github.com/topics)
 
+
 ## Recent Titles
-<!--🌀 Systems Analyst Intern @ OpenText -->
+🌀 Systems Analyst Intern @ OpenText 
 
 💻 Associate Platform Engineer, Co-op @ Gore Mutual
 
-🚀 Front-End Technical Lead @ SEDS Canada  
+⚡ Firmware R&D Member @ Waterloo Space Soldering Team
 
-<!--⚡ Software Team Member @ Waterloo Space Soldering Team -->
+🚀 Front-End Technical Lead @ Students for the Exploration & Development of Space (SEDS), Canada  
 
 
 <!--
