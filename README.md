@@ -31,4 +31,3 @@
 **asmi-g/asmi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![asmi-g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmi-g&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
