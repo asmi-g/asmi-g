@@ -3,18 +3,20 @@
 ## About Me
 🧭 Seeking F24 Internships in firmware development and aerospace engineering roles
 
-🤖 Currently Working On: IoT Project w/ STM32 & ESP32 Module
+🤖 Currently Working On: Wireless GPIO Control Network w/ ESP32 and Amazon Cloud Services (AWS)
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
 
 
 ## Latest Projects
+📷 Remote Control & Monitoring System - uses ESP32-CAM and other sensors to send data when requested of the Telegram bot
+   
+📢 Asynchronous Data Streamer - uses RTOS for real-time data acquisition w/ task priority and concurrency
+   
 🌠 Celestial Orbit Simulation - user interactive simulator that depicts trajectory of moving bodies in space
 
 🌞 LiDAR Data Processor - takes in a .las file to isolate and visualize a selected sample
 
 🌌 NASA APOD Project - generates the picture corresponding to their Picture of the Day API  
-
-📊 GitHub Web Scraper - scrapes data from GitHub's "Topic" webpage (https://github.com/topics)
 
 
 ## Recent Titles
@@ -22,9 +24,11 @@
 
 💻 Associate Platform Engineer, Co-op @ Gore Mutual
 
-⚡ Firmware R&D Member @ Waterloo Space Soldering Team
+⚡ Embedded Systems R&D Designer @ Waterloo Space Soldering Team
 
 🚀 Front-End Technical Lead @ Students for the Exploration & Development of Space (SEDS), Canada  
+
+📡   Payload Systems Developer @ UW Orbital
 
 
 <!--
