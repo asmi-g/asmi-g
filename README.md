@@ -1,7 +1,7 @@
 ### Hi, I'm Asmi! Welcome to my GitHub profile! 💌  
 
 ## About Me
-🧭 Seeking F24 Internships in firmware development and aerospace engineering roles
+🧭 Seeking Summer 2025 Internships in firmware development and aerospace engineering roles
 
 🤖 Currently Working On: Wireless GPIO Control Network w/ ESP32 and Amazon Cloud Services (AWS)
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
@@ -20,15 +20,15 @@
 
 
 ## Recent Titles
+🛰️ System Architecture Intern @ Canadian Space Agency
+
+⚡ Firmware Developer @ Waterloo Space Soldering Team
+
 🌀 Software Systems Analyst Intern @ OpenText 
 
 💻 Associate Platform Engineer, Co-op @ Gore Mutual
 
-⚡ Embedded Systems R&D Designer @ Waterloo Space Soldering Team
-
 🚀 Front-End Technical Lead @ Students for the Exploration & Development of Space (SEDS), Canada  
-
-📡   Payload Systems Developer @ UW Orbital
 
 
 <!--
