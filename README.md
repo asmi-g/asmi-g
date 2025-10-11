@@ -1,7 +1,7 @@
 ### Hi, I'm Asmi! Welcome to my GitHub profile! 💌  
 
 ## About Me
-🧭 Seeking Winter 2026 & Summer 2026 Internships in firmware development and aerospace engineering roles
+🧭 Seeking Winter 2027 & Summer 2027 Internships in firmware development and aerospace engineering roles
 
 🤖 Currently Working On: Adaptive Signal Transmission & Real-time Analytics (ASTRA) - Stratospheric Experiment
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
