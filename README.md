@@ -3,17 +3,17 @@
 ## About Me
 🧭 Seeking Winter 2027 & Summer 2027 Internships in firmware development and aerospace engineering roles
 
-🤖 Currently Working On: Adaptive Signal Transmission & Real-time Analytics (ASTRA) - Stratospheric Experiment
+🤖 Currently Working On: Modular Operations Simulation Software (MOSS) - validate embedded flight controls through simulation
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
 
 
 ## Latest Projects
+🌠 Adaptive Signal Transmission & Real-time Analytics (ASTRA) - Stratospheric experiment to analyze & improve radiofrequency signal quality using Reinforcement Learning
+
 📷 Remote Control & Monitoring System - uses ESP32-CAM and other sensors to send data when requested of the Telegram bot
    
 📢 Asynchronous Data Streamer - uses RTOS for real-time data acquisition w/ task priority and concurrency
    
-🌠 Celestial Orbit Simulation - user interactive simulator that depicts trajectory of moving bodies in space
-
 🌞 LiDAR Data Processor - takes in a .las file to isolate and visualize a selected sample
 
 🌌 NASA APOD Project - generates the picture corresponding to their Picture of the Day API  
