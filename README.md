@@ -8,7 +8,7 @@
 
 
 ## Latest Projects
-🌠 Adaptive Signal Transmission & Real-time Analytics (ASTRA) - Stratospheric experiment to analyze & improve radiofrequency signal quality using Reinforcement Learning
+🌠 Adaptive Signal Transmission & Real-time Analytics (ASTRA) - Stratospheric experiment to improve radiofrequency signal quality with machine learning
 
 📷 Remote Control & Monitoring System - uses ESP32-CAM and other sensors to send data when requested of the Telegram bot
    
