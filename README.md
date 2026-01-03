@@ -5,7 +5,7 @@
 
 🤖 Commonly work with C++, C#, Python
 
-🌌 Currently Working On: Modular Orbital Simulation Stack (MOSS) - Processor-In-The-Loop simulations for validating embedded flight controls
+🌌 Currently Working On: Modular Orbital Simulation Stack (MOSS) - Processor-In-The-Loop validation for embedded flight controls
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
 
 
