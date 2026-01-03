@@ -30,7 +30,7 @@
 
 🛰️ Digital Systems Engineering Intern @ Canadian Space Agency
 
-🌀 Software Systems Analyst Intern @ OpenText 
+<!--🌀 Software Systems Analyst Intern @ OpenText--> 
 
 <!--💻 Associate Platform Engineer, Co-op @ Gore Mutual-->
 
