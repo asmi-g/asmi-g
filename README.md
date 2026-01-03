@@ -3,7 +3,9 @@
 ## About Me
 🧭 Seeking Winter 2027 & Summer 2027 Internships in firmware development and aerospace engineering roles
 
-🤖 Currently Working On: Modular Operations Simulation Software (MOSS) - validate embedded flight controls through simulation
+🤖 Commonly work with C++, C#, Python
+
+🌌 Currently Working On: Modular Orbital Simulation Stack (MOSS) - Processor-In-The-Loop simulations for validating embedded flight controls
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
 
 
@@ -14,13 +16,15 @@
    
 📢 Asynchronous Data Streamer - uses RTOS for real-time data acquisition w/ task priority and concurrency
    
-🌞 LiDAR Data Processor - takes in a .las file to isolate and visualize a selected sample
+<!--🌞 LiDAR Data Processor - takes in a .las file to isolate and visualize a selected sample-->
 
-🌌 NASA APOD Project - generates the picture corresponding to their Picture of the Day API  
+<!--🌌 NASA APOD Project - generates the picture corresponding to their Picture of the Day API-->  
 
 
 ## Recent Titles
-👾 Embedded Systems Team Lead @ Waterloo Space Research Team
+🛰️ Software Development Intern, MDA Space
+
+🚀 Embedded Systems Team Lead @ Waterloo Space Research Team
 
 ⚡ Embedded Software Intern @ AlumaPower
 
@@ -28,9 +32,9 @@
 
 🌀 Software Systems Analyst Intern @ OpenText 
 
-💻 Associate Platform Engineer, Co-op @ Gore Mutual
+<!--💻 Associate Platform Engineer, Co-op @ Gore Mutual-->
 
-🚀 Front-End Technical Lead @ Students for the Exploration & Development of Space (SEDS), Canada  
+<!--🚀 Front-End Technical Lead @ Students for the Exploration & Development of Space (SEDS), Canada--> 
 
 
 <!--
