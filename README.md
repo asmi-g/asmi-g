@@ -28,7 +28,7 @@
 
 ⚡ Embedded Software Intern @ AlumaPower
 
-🛰️ Digital Systems Engineering Intern @ Canadian Space Agency
+<!--🛰️ Digital Systems Engineering Intern @ Canadian Space Agency-->
 
 <!--🌀 Software Systems Analyst Intern @ OpenText--> 
 
