@@ -3,9 +3,9 @@
 ## About Me
 🧭 Seeking Winter 2027 & Summer 2027 Internships in firmware development and aerospace engineering roles
 
-🤖 Commonly work with C++, C#, Python
+<!--🤖 Commonly work with C++, C#, Python-->
 
-🌌 Currently Working On: Modular Orbital Simulation Stack (MOSS) - Processor-In-The-Loop validation for embedded flight controls
+🤖 Currently Working On: Modular Orbital Simulation Stack (MOSS) - Processor-In-The-Loop validation for embedded flight controls
 <!--#### 📊 Languages Frequently Used: https://gh-stats-gen.vercel.app/-->
 
 
@@ -41,4 +41,4 @@
 **asmi-g/asmi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![asmi-g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmi-g&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+<!--![asmi-g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmi-g&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
